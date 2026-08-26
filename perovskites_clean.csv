@@ -1,0 +1,225 @@
+Crystal_Structure,Lattice_Parameters,formula,TN,Space_Group
+Perovskite,,Nd0.5Sr0.5MnO3,50.0,
+Layered Perovskite,"{'a': '3.8699 Ã…', 'c': '7.6359 Ã…'}",YBaCuFe0.95Mn0.05O5,331.0,P4mm
+Layered Perovskite,"{'a': '3.8735 Ã…', 'c': '7.6648 Ã…'}",YBaCuFeO5,306.5,P4mm
+Orthorhombic Perovskite,,Nd0.93MnO2.96,80.0,Pnma
+Perovskite,,Nd0.5Sr0.5MnO3,225.0,
+Orthorhombic distorted perovskite,"{'a': '5.292 Ã…', 'b': '5.591 Ã…', 'c': '7.614 Ã…'}",Ho0.5Dy0.5FeO3,705.0,Pbnm
+Distorted Perovskite,"{'a': '5.793(2) Ã…', 'b': '5.832(1) Ã…', 'c': '8.2134(7) Ã…'}",Sr2RuGdO6,32.0,P21/n
+Distorted Perovskite,"{'a': '5.811(4) Ã…', 'b': '5.846(3) Ã…', 'c': '8.2269(4) Ã…'}",Sr2RuEuO6,28.0,P21/n
+Rhombohedral distorted perovskite,,BiFe0.9Co0.01Mn0.09O3,653.15,R3c
+Rhombohedral distorted perovskite,,BiFe0.9Co0.09Mn0.01O3,676.15,R3c
+Perovskite,"{'a': '5.400 Ã…', 'b': '5.599 Ã…', 'c': '7.709 Ã…'}",SmFeO3,670.0,Pnma
+GdFeO3-perovskite,"{'a': '5.3761 Ã…', 'b': '5.3739 Ã…', 'c': '7.5715 Ã…'}",La0.3Ca0.7MnO3,170.0,Pbnm
+Pnma,"{'a': '5.6200 Ã…', 'b': '7.5236 Ã…', 'c': '5.8338 Ã…'}",La0.375Ca0.625MnO3,115.0,Pnma
+Distorted Perovskite,"{'a': '5.4491 Ã…', 'b': '5.4345 Ã…', 'c': '7.6506 Ã…'}",Pr0.65Ca0.35MnO3,165.0,Pbnm
+AFM,,TbCo0.2Ni1.8B2C,10.2,
+AFM,,TbCo0.4Ni1.6B2C,7.65,
+Perovskite,"{'a': '3.98 Ã…', 'b': '3.98 Ã…', 'c': '3.98 Ã…'}",LaMnO3,131.0,
+Rhombohedral perovskite,,Bi0.95Pb0.05Fe0.85Mn0.15O3,670.15,R3c
+Double-layered perovskite-like,,Ca3Ru2O7,56.0,
+Perovskite,,LaMn3Ni2Mn2O12,46.0,
+Perovskite-like,{'a': '417.5 pm'},CePd3Ga0.10,3.3,
+Perovskite-like,{'a': '419.8 pm'},CePd3Ga0.15,4.0,
+Perovskite-like,{'a': '421.6 pm'},CePd3Ga0.20,2.3,
+Perovskite,,DyScO3,3.5,Pbnm
+Layered Perovskite,,Er2Mn2O7,4.75,
+Orthorhombic Perovskite,"{'a': '5.3044 Ã…', 'b': '5.5137 Ã…', 'c': '7.5920 Ã…'}",GdCrO3,171.0,Pbnm
+Layered Perovskite,,HoBaCo2O5.5,280.0,
+Layered Perovskite,,GdBaCo2O5.5,255.0,
+Perovskite,,KCuF3,39.0,I4/mcm
+Perovskite,"{'a': '5.90193(6) Ã… (10 K), 5.89907(2) Ã… (140 K), 4.18538(1) Ã… (235 K)', 'b': '5.88848(6) Ã… (10 K), a (140 K), a (235 K)', 'c': '8.34826(9) Ã… (10 K), 8.38022(5) Ã… (140 K), a (235 K)'}",KMnF3,81.9,"Pnma (10 K), I4/mcm (140 K), Pm3Ì„m (235 K)"
+Triple-layered perovskite,,La4Co3O10.1,13.0,
+Pillared Perovskite,"{'a': '7.931 Ã…', 'b': '7.913 Ã…', 'c': '10.346 Ã…'}",La5Mo2.76V1.25O16,100.0,C2/m
+112-type Perovskite,"{'a': '0.3926 nm', 'b': '0.3961 nm', 'c': '0.3847 nm'}",LaBaCo2O5.5,260.0,
+Orthorhombic perovskite,"{'a': '5.4964 Ã…', 'b': '7.8164 Ã…', 'c': '5.5187 Ã…'}",LaMn0.5Fe0.5O3,150.0,Pnma
+Distorted Perovskite,"{'a': '5.459 Ã…', 'c': '13.136 Ã…'}",LaNiO3,151.0,R-3c
+Perovskite,,PrBa2Cu3O7,17.0,Pmmm
+Perovskite,,GdBa2Cu3O7,2.0,Pmmm
+Orthorhombic perovskite,"{'a': '5.4834 Ã…', 'b': '5.5802 Ã…', 'c': '7.7879 Ã…'}",PrFeO3,640.0,Pbnm
+Orthorhombic perovskite,,EuRhO3,80.0,Pbnm
+3C perovskite,{'a': '3.9445 Ã…'},Sr3MnTiSbO9,10.0,Pm-3m
+3C perovskite,{'a': '3.9393 Ã…'},Sr3CoTiSbO9,20.0,Pm-3m
+Distorted Perovskite,,La3Ni2SbO9,105.0,
+Hexagonal perovskite,,BaCoO3,15.0,
+2H-hexagonal perovskite,"{'a': '9.5721 Ã…', 'c': '7.8264 Ã…'}",Sr4Li0.89Mn2.11O9,4.5,P 321
+Distorted Orthorhombic,"{'a': '5.5147 Ã…', 'b': '7.5358 Ã…', 'c': '5.2465 Ã…'}",YCrO3,140.0,Pnma
+6H perovskite,,Ba3Fe2WO9,223.0,
+Perovskite,"{'a': '5.435 Ã…', 'b': '5.401 Ã…', 'c': '7.626 Ã…'}",Bi0.5Ca0.4Sr0.1MnO3,140.0,Pbnm
+Rhombohedral perovskite,"{'a': '5.598', 'b': '5.598', 'c': '13.858'}",Bi0.9Ba0.1Fe0.81Co0.09Ti0.1O3,597.45,R3c
+Rhombohedral perovskite,"{'a': '5.590', 'b': '5.590', 'c': '13.848'}",Bi0.9Ba0.1Fe0.81Mn0.09Ti0.1O3,608.85,R3c
+Rhombohedral perovskite,"{'a': '5.610', 'b': '5.610', 'c': '13.916'}",Bi0.9Ba0.1Fe0.81Sc0.09Ti0.1O3,567.05,R3c
+Rhombohedral perovskite,"{'a': '5.591', 'b': '5.591', 'c': '13.865'}",Bi0.9Ba0.1Fe0.81Al0.09Ti0.1O3,568.95,R3c
+Perovskite,,YFeO3,655.0,Pnma
+Post-perovskite,"{'a': '3.147', 'b': '9.863', 'c': '7.299'}",CaIrO3,115.0,Cmcm
+Orthorhombic Perovskite,"{'a': '5.673 Ã…', 'b': '7.531 Ã…', 'c': '5.288 Ã…'}",DyFe0.6Mn0.4O3,390.0,Pnma
+Orthorhombic Perovskite,,DyFeO3,645.0,Pnma
+GdFeO3-type,,SmRhO3,2.5,Pnma
+GdFeO3-type,,GdRhO3,2.2,Pnma
+GdFeO3-type,,TbRhO3,2.2,Pnma
+GdFeO3-type,,DyRhO3,3.2,Pnma
+GdFeO3-type,,HoRhO3,2.4,Pnma
+GdFeO3-type,,ErRhO3,0.91,Pnma
+GdFeO3-type,,YbRhO3,2.3,Pnma
+Layered Perovskite,,Sr2IrO4,240.0,I41/acd
+Orthorhombic perovskite,"{'a': '5.278 Ã…', 'b': '5.591 Ã…', 'c': '7.602 Ã…'}",Ho0.5Pr0.5FeO3,650.0,Pbnm
+Perovskite,,La0.53Tb0.14Sr0.33MnO3,66.0,
+Perovskite,{'a': '3.8939'},La0.5Ba0.5Co0.9Cu0.1O3,95.0,Pm-3m
+Perovskite,{'a': '3.8927'},La0.5Ba0.5Co0.9Zn0.1O3,97.0,Pm-3m
+Perovskite,{'a': '3.8921'},La0.5Ba0.5Co0.9Ti0.1O3,110.0,Pm-3m
+Perovskite,{'a': '3.8929'},La0.5Ba0.5Co0.9Ru0.1O3,170.0,Pm-3m
+Antiperovskite,,Mn3GaC,157.0,
+Antiperovskite,,Mn3GaC0.9,155.0,
+Orthorhombic perovskite,"{'a': '5.4159 Ã…', 'b': '5.8379 Ã…', 'c': '7.5481 Ã…'}",NdMnO3,85.0,Pnma
+Pnma,,Sm0.1Ca0.7Sr0.2MnO3,90.0,
+Pnma,,Sm0.1Ca0.6Sr0.3MnO3,110.0,
+Perovskite,"{'a': '5.424 Ã…', 'b': '7.678 Ã…', 'c': '5.434 Ã…'}",Sm0.55Sr0.45MnO3,36.0,Pnma
+Perovskite-type,"{'a': '0.54463 nm', 'b': '0.57104 nm', 'c': '0.78048 nm'}",Sm2MnTiO6,21.0,P21/n
+Orthorhombic Perovskite,"{'a': '5.69083 Ã…', 'b': '7.61428 Ã…', 'c': '5.37981 Ã…'}",SmFe0.5Mn0.5O3,286.0,Pnma
+Perovskite,,SrFeO3,130.0,
+Perovskite,,CaFeO3,120.0,
+Perovskite,"{'a': '5.244 Ã…', 'b': '5.532 Ã…', 'c': '7.543 Ã…'}",YFe0.25Cr0.75O3,160.0,Pbnm
+Perovskite,,YFeO3,648.0,Pbnm
+Perovskite,,YCrO3,141.0,Pbnm
+Orthorhombic Perovskite,,YFe0.8Mn0.2O3,400.0,Pbnm
+Orthorhombic Perovskite,,YFeO3,640.0,Pbnm
+Pnma,"{'a': '5.62644', 'b': '7.80144', 'c': '5.43049'}",Bi0.80Tb0.20FeO3,638.15,Pnma
+GdFeO3-type perovskite,"{'a': '5.9065 Ã…', 'b': '7.5529 Ã…', 'c': '5.3987 Ã…'}",Bi0.9Y0.1MnO3,68.0,Pnma
+GdFeO3-type perovskite,"{'a': '5.9037 Ã…', 'b': '7.5282 Ã…', 'c': '5.3798 Ã…'}",Bi0.8Y0.2MnO3,58.0,Pnma
+GdFeO3-type perovskite,"{'a': '5.8950 Ã…', 'b': '7.5049 Ã…', 'c': '5.3628 Ã…'}",Bi0.7Y0.3MnO3,46.0,Pnma
+GdFeO3-type perovskite,"{'a': '5.8787 Ã…', 'b': '7.4578 Ã…', 'c': '5.3278 Ã…'}",Bi0.5Y0.5MnO3,44.0,Pnma
+GdFeO3-type perovskite,"{'a': '5.8672 Ã…', 'b': '7.4349 Ã…', 'c': '5.3113 Ã…'}",Bi0.4Y0.6MnO3,44.0,Pnma
+GdFeO3-type perovskite,"{'a': '5.8550 Ã…', 'b': '7.4132 Ã…', 'c': '5.2958 Ã…'}",Bi0.3Y0.7MnO3,44.0,Pnma
+GdFeO3-type perovskite,"{'a': '5.8429 Ã…', 'b': '7.3922 Ã…', 'c': '5.2815 Ã…'}",Bi0.2Y0.8MnO3,44.0,Pnma
+GdFeO3-type perovskite,"{'a': '5.8351 Ã…', 'b': '7.3728 Ã…', 'c': '5.2696 Ã…'}",Bi0.1Y0.9MnO3,44.0,Pnma
+Pnma,"{'a': '5.3986', 'b': '14.7040', 'c': '5.6041'}",Ca2FeGaO5,400.0,Pnma
+Pnma,"{'a': '5.429', 'b': '14.771', 'c': '5.559'}",Ca2Fe2O5,725.0,Pnma
+Perovskite,,Gd0.75Ca0.25MnO3,56.0,
+Perovskite,,Bi0.9Ba0.1FeO3,644.45,
+Perovskite,,Bi0.85Ba0.15FeO3,646.45,
+Perovskite,,Bi0.8Ba0.2FeO3,653.35,
+Perovskite,,Bi0.75Ba0.25FeO3,659.35,
+Perovskite rhombohedral,{'a': '3.967'},BiFe0.85Ni0.15O3,668.15,R3c
+Perovskite rhombohedral,{'a': '3.9713'},BiFe0.80Ni0.20O3,663.15,R3c
+Perovskite rhombohedral,{'a': '3.9753'},BiFe0.75Ni0.25O3,661.15,R3c
+Distorted perovskite-type,,CaMn0.98V0.02O3,118.0,Pnma
+Distorted perovskite-type,,CaMn0.96V0.04O3,111.0,Pnma
+Distorted perovskite-type,,CaMn0.94V0.06O3,99.0,Pnma
+Distorted perovskite-type,,CaMn0.92V0.08O3,102.0,Pnma
+Distorted perovskite-type,,CaMnO3,121.0,Pnma
+GdFeO3 type distorted perovskite,,HoFeO3,647.0,Pbnm
+GdFeO3 type distorted perovskite,,HoFe0.75Cr0.25O3,495.0,Pbnm
+GdFeO3 type distorted perovskite,,HoFe0.5Cr0.5O3,273.0,Pbnm
+GdFeO3 type distorted perovskite,,HoFe0.25Cr0.75O3,157.0,Pbnm
+GdFeO3 type distorted perovskite,,HoCrO3,142.0,Pbnm
+Perovskite,,La0.5Sr0.5Mn0.85Ti0.15O3,80.0,
+Perovskite,,La0.5Sr0.5Mn0.825Ti0.175O3,80.0,
+Perovskite,,La0.5Sr0.5Mn0.8Ti0.2O3,80.0,
+Perovskite,,LaMnO3,137.5,
+Perovskite,,LaSr2Mn2O7,170.0,
+Antiperovskite,{'a': '3.905 Ã…'},Mn3Cu0.8Si0.2N,127.0,Pm3m
+Antiperovskite,{'a': '3.903 Ã…'},Mn3Cu0.7Si0.3N,143.0,Pm3m
+Antiperovskite,{'a': '3.900 Ã…'},Mn3Cu0.6Si0.4N,107.0,Pm3m
+Antiperovskite,{'a': '3.898 Ã…'},Mn3Cu0.5Si0.5N,77.0,Pm3m
+Perovskite,,Sr2MnMoO6,12.0,
+Antiperovskite,{'a': '3.7656 Ã…'},Mn3NiN,185.0,
+Antiperovskite,,Mn3Ni0.977Cu0.023N,166.0,
+Antiperovskite,,Mn3Ni0.945Cu0.055N,154.0,
+Antiperovskite,,Mn3Ni0.844Cu0.156N,136.0,
+Antiperovskite,,Mn3Ni0.808Cu0.192N,133.0,
+Antiperovskite,,Mn3Ni0.649Cu0.351N,163.0,
+Perovskite,,NdNiO3,57.5,Pbnm
+Tetragonally distorted perovskite,,Sr2FeWO6,37.0,
+Perovskite,,LaMnO3,128.0,
+Perovskite,"{'a': '5.560 Ã…', 'b': '7.768 Ã…', 'c': '5.463 Ã…'}",Ca1.2La0.8Ru1.6Co0.4O6,22.0,Pnma
+Perovskite,"{'a': '5.638 Ã…', 'b': '7.878 Ã…', 'c': '5.574 Ã…'}",La2CoRuO6,26.0,P 21/n
+Orthorhombic Distorted Perovskite,"{'a': '0.5556 nm', 'b': '0.5565 nm', 'c': '0.7862 nm'}",LaFeO3,750.0,
+Perovskite,"{'a': '3.89 Ã…', 'b': '3.89 Ã…', 'c': '3.89 Ã…'}",La0.33333Ca0.66667MnO3,258.0,
+Perovskite,,La1.33333Sr1.66667Mn2O7,60.0,
+Perovskite,,Bi0.9Pb0.1Fe0.9Mg0.033333Nb0.066667O3,543.15,
+Perovskite,,Bi0.8Pb0.2Fe0.8Mg0.066667Nb0.133333O3,593.15,
+Perovskite,,Bi0.7Pb0.3Fe0.7Mg0.1Nb0.2O3,633.15,
+Perovskite,"{'a': '0.407 nm', 'b': '0.407 nm', 'c': '0.407 nm'}",FeKCoF3,114.0,
+Perovskite,"{'a': '4.0504 Ã…', 'b': '4.0504 Ã…', 'c': '4.1190 Ã…'}",PbFe0.5Nb0.5O3,156.5,
+Perovskite,"{'a': '4.0504 Ã…', 'b': '4.0504 Ã…', 'c': '4.1190 Ã…'}",PbFe0.5Ta0.5O3,156.5,
+Perovskite,,TbMnO3,40.0,
+Hexagonal perovskite-type,,Sr6Co5O15,32.0,R32
+Perovskite,,Bi0.65La0.35Fe0.5Sc0.5O3,237.0,Pnma
+Perovskite,,BiFe0.5Sc0.5O3,220.0,Pnma
+Disordered Spinel,,ZnFe2O4 ,10.0,
+Double-cell perovskite,"{'a': '3.928890 Ã… (300 K), 7.888681 Ã… (100 K)', 'b': '3.924363 Ã… (300 K), 3.912156 Ã… (100 K)', 'c': '7.520852 Ã… (300 K), 7.486775 Ã… (100 K)'}",EuBaCo2O5,360.0,"Pmmm (300 K), Pmma (100 K)"
+Perovskite,{'a': '7.95 Ã…'},Sr2FeWO6,26.5,
+GdFeO3-type,"{'a': '5.5185', 'b': '7.8153', 'c': '5.5501'}",Bi0.5La0.5Fe0.5Mn0.5O3,243.0,Pnma
+GdFeO3-type,"{'a': '5.54366', 'b': '7.82919', 'c': '5.56372'}",Bi0.1La0.9Fe0.5Mn0.5O3,245.0,Pnma
+GdFeO3-type,"{'a': '5.63523', 'b': '7.73337', 'c': '5.43789'}",Bi0.5Nd0.5Fe0.5Mn0.5O3,252.0,Pnma
+GdFeO3-type,"{'a': '5.60647', 'b': '7.77011', 'c': '5.44564'}",Bi0.3Nd0.7Fe0.5Mn0.5O3,254.0,Pnma
+GdFeO3-type,"{'a': '5.57584', 'b': '7.72696', 'c': '5.44263'}",Bi0.1Nd0.9Fe0.5Mn0.5O3,240.0,Pnma
+Pnma,,Ca2Fe2O5,716.15,Pnma
+Pnma,,Ca2Zn0.05Fe1.95O5,703.15,Pnma
+Pnma,,Ca2Zn0.10Fe1.90O5,697.15,Pnma
+Perovskite,"{'a': '5.5030 Ã…', 'c': '13.4081 Ã…'}",LaCrO3,290.0,R-3c (167)
+Perovskite,,YMn0.5Cr0.5O3,73.0,
+Perovskite,"{'a': '7.75465 Ã…', 'b': '7.82061 Ã…', 'c': '7.52938 Ã…'}",EuBaCo2O5.5,258.5,Pmma
+Pillared Perovskite,"{'a': '7.9553 Ã…', 'b': '7.9960 Ã…', 'c': '10.1895 Ã…'}",La5Re3FeO16,155.0,C1Ì„
+Rhombohedral Perovskite,"{'a': '5.484', 'c': '6.678'}",Bi0.975Zn0.025Fe0.975Ni0.025O3,573.15,
+Rhombohedral Perovskite,"{'a': '5.466', 'c': '6.658'}",Bi0.9Zn0.1Fe0.9Ni0.1O3,598.15,
+Orthorhombic perovskite,,PrTiO3,120.0,
+Orthorhombic perovskite,,NdTiO3,90.0,
+6H-perovskite,,Ba3ScIr2O9,10.0,P63/mmc
+6H-perovskite,,Ba3InIr2O9,1.6,P63/mmc
+"Pnma (RT), P21/m (10K)","{'a': '5.3347(1) (RT), 5.3515(1) (10K)', 'b': '7.5124(2) (RT), 7.4458(1) (10K)', 'c': '5.3129(1) (RT), 5.3245(1) (10K)'}",Sm0.2Ca0.8MnO3,150.0,"Pnma (RT), P21/m (10K)"
+Pnma,"{'a': '5.3610(2) (300K), 5.3601(2) (150K), 5.3588(2) (10K)', 'b': '7.5361(2) (300K), 7.5282(3) (150K), 7.5282(3) (10K)', 'c': '5.3258(2) (300K), 5.3182(2) (150K), 5.3138(2) (10K)'}",Sm0.2Ca0.8Mn0.9Ru0.1O3,110.0,Pnma
+"Pnma (RT), P21/m (10K)","{'a': '5.3215(1) (RT), 5.3340(1) (10K)', 'b': '7.5010(2) (RT), 7.4432(2) (10K)', 'c': '5.3021(1) (RT), 5.3076(1) (10K)'}",Sm0.15Ca0.85MnO3,110.0,"Pnma (RT), P21/m (10K)"
+Pnma,"{'a': '5.3101(1) (RT), 5.3051(1) (10K)', 'b': '7.4893(1) (RT), 7.4734(1) (10K)', 'c': '5.2924(1) (RT), 5.2793(1) (10K)'}",Sm0.1Ca0.9MnO3,110.0,Pnma
+Orthorhombic Perovskite,"{'a': '5.604 Ã…', 'b': '5.595 Ã…', 'c': '7.916 Ã…'}",LaTiO3,130.0,
+Orthorhombic Perovskite,"{'a': '5.644 Ã…', 'b': '5.463 Ã…', 'c': '7.732 Ã…'}",SmTiO3,50.0,
+Orthorhombic Perovskite,,CeTiO3,116.0,
+Orthorhombic Perovskite,,PrTiO3,96.0,
+Orthorhombic Perovskite,,NdTiO3,90.0,
+Perovskite,,Pr0.65Ca0.25Sr0.1MnO3,175.0,
+"Perovskite, Post-perovskite","{'a': '5.5361 (perovskite), 3.0261 (post-perovskite)', 'b': '7.7056 (perovskite), 10.0579 (post-perovskite)', 'c': '5.3674 (perovskite), 7.4014 (post-perovskite)'}",NaNiF3,89.0,"Pnma (perovskite), Cmcm (post-perovskite)"
+Perovskite,{'a': '3.84 Ã…'},SrFeO3,134.0,Pm3Ì„m
+Pnma,"{'a': '5.30394 Ã… (300 K), 5.30101 Ã… (10 K)', 'b': '7.48091 Ã… (300 K), 7.46025 Ã… (10 K)', 'c': '5.28758 Ã… (300 K), 5.27646 Ã… (10 K)'}",CaMn0.96Mo0.04O3,110.0,Pnma
+Hexagonal Perovskite,"{'a': '5.62176', 'c': '17.3161'}",La2Ca2MnO7,3.0,R3Ì„
+Hexagonal Perovskite,"{'a': '5.61715', 'c': '17.3521'}",La2Ca2MnO8,2.5,R3Ì„m
+Perovskite,"{'a': '537 pm', 'b': '522 pm'}",Ca3Ru2O7,56.0,
+Perovskite,"{'a': '537 pm', 'b': '522 pm'}",Ca3Fe0.1Ru1.9O7,79.7,
+Perovskite,"{'a': '5.5151 Ã…', 'b': '7.6639 Ã…', 'c': '5.3808 Ã…'}",SmCrO3,192.3,Pnma (No. 62)
+Perovskite,"{'a': '5.5099 Ã…', 'b': '7.6598 Ã…', 'c': '5.3786 Ã…'}",Sm0.98Ca0.02CrO3,190.3,Pnma (No. 62)
+Perovskite,"{'a': '5.5085 Ã…', 'b': '7.6579 Ã…', 'c': '5.3783 Ã…'}",Sm0.96Ca0.04CrO3,186.5,Pnma (No. 62)
+Perovskite,"{'a': '5.5030 Ã…', 'b': '7.6537 Ã…', 'c': '5.3763 Ã…'}",Sm0.94Ca0.06CrO3,183.4,Pnma (No. 62)
+Perovskite,"{'a': '5.4960 Ã…', 'b': '7.6470 Ã…', 'c': '5.3742 Ã…'}",Sm0.90Ca0.10CrO3,175.7,Pnma (No. 62)
+Perovskite,"{'a': '5.4770 Ã…', 'b': '7.6342 Ã…', 'c': '5.3711 Ã…'}",Sm0.80Ca0.20CrO3,150.8,Pnma (No. 62)
+Perovskite,,La0.4Ca0.6Mn0.99Cr0.01O3,140.0,Pbnm
+Distorted Double Perovskite,"{'a': '5.8209', 'b': '5.8743', 'c': '8.2531'}",Eu2DyTaO6,4.0,P21/n
+Distorted Double Perovskite,"{'a': '5.8131', 'b': '5.8583', 'c': '8.2357'}",Eu2HoTaO6,4.0,P21/n
+Distorted Double Perovskite,"{'a': '5.8075', 'b': '5.8393', 'c': '8.2207'}",Eu2ErTaO6,4.0,P21/n
+Distorted Double Perovskite,"{'a': '5.7974', 'b': '5.8305', 'c': '8.2090'}",Eu2TmTaO6,4.0,P21/n
+Distorted Double Perovskite,"{'a': '5.7893', 'b': '5.8183', 'c': '8.1914'}",Eu2YbTaO6,4.0,P21/n
+Distorted Double Perovskite,"{'a': '5.7820', 'b': '5.8063', 'c': '8.1857'}",Eu2LuTaO6,4.0,P21/n
+Perovskite,"{'a': '5.213605 Ã…', 'b': '5.53166 Ã…', 'c': '7.52656 Ã…'}",YbCr0.5Fe0.5O3,270.0,Pbnm
+Perovskite,,La0.7Sr0.3Co0.2Fe0.8O3,273.0,
+Perovskite,,La0.7Sr0.3Co0.1Fe0.9O3,273.0,
+Perovskite,,La0.7Sr0.3FeO3,273.0,
+Tetragonally distorted perovskite,"{'a': '5.4591 (x=0), 5.4438 (x=0.05), 5.4539 (x=0.1), 5.4520 (x=0.15), 5.4603 (x=0.2)', 'b': '5.4591 (x=0), 5.4438 (x=0.05), 5.4539 (x=0.1), 5.4520 (x=0.15), 5.4603 (x=0.2)', 'c': '7.7509 (x=0), 7.7548 (x=0.05), 7.7501 (x=0.1), 7.7368 (x=0.15), 7.7347 (x=0.2)'}",La0.5Sr0.5MnO3,175.0,I4/mcm
+Distorted Orthorhombic,"{'a': '5.3805 Ã…', 'b': '5.6182 Ã…', 'c': '7.6434 Ã…'}",Sm2FeMnO6,491.0,Pbnm
+Distorted Perovskite,,YVO3,116.0,Pbnm
+Pnma,"{'a': '5.4743 Ã…', 'b': '5.5130 Ã…', 'c': '7.7783 Ã…'}",La0.17Ca0.83MnO3,200.0,Pnma
+Hexagonal perovskite,,CsCrCl3,16.0,
+Orthorhombic Perovskite,,GdMn0.95Hf0.05O3,44.0,
+Orthorhombic Perovskite,,GdMn0.90Hf0.10O3,44.0,
+Orthorhombic Perovskite,,GdMn0.80Hf0.20O3,44.0,
+Perovskite,,TbBaCo2O5.53,245.0,
+Perovskite-like,,R2CuO4,270.0,
+Pnma,"{'a': '5.4007 Ã…', 'b': '7.6104 Ã…', 'c': '5.3955 Ã…'}",Pr0.5Ca0.5Mn0.95Al0.05O3,95.0,Pnma
+Pnma,,La0.333Ca0.667MnO3,168.0,Pnma
+Perovskite,,CaCu3Co2Re2O12,28.0,
+Layered Perovskite,,LaSr2Mn1.8Cr0.2O7,140.0,I4/mmm
+Distorted Perovskite,,YVO3,116.0,
+Perovskite,"{'a': '5.4211 Ã…', 'b': '7.6442 Ã…', 'c': '5.4308 Ã…'}",La0.45Bi0.05Ca0.5MnO3,156.0,Pnma
+Distorted Perovskite,"{'a': '5.529 Ã…', 'b': '5.565 Ã…', 'c': '7.832 Ã…'}",La0.8Nd0.2Fe0.95V0.05O3,19.0,Pbnm
+Orthorhombic perovskite,,Sm0.3Tb0.7FeO3,385.0,Pbnm
+Perovskite,,Pr0.6Ca0.4MnO3,170.0,Pbnm
+Perovskite,,Ca0.97Pr0.03MnO3,97.0,
+Perovskite,,Ca0.94Pr0.06MnO3,125.0,
+Perovskite,,Ca0.90Pr0.10MnO3,125.0,
